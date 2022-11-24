@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrAltria
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning exploration
-- 💞️ I will join in Zhejiang University as a PhD in 2023Fall.
+- 🌱 I’m currently learning object-level SLAM
+- 💞️ I will join in Zhejiang University as a PhD student in 2023Fall.
 - 📫 How to reach me ?
 please send mail to extreme_pangbo@mail.sdu.edu.cn
 
