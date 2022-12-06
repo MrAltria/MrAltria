@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning object-level SLAM
 - 💞️ I will join in Zhejiang University as a PhD student in 2023Fall.
 - 📫 How to reach me ?
-please send mail to extreme_pangbo@mail.sdu.edu.cn
+please send mail to extreme_pangbo@mail.sdu.edu.cn or boaltria@gmail.com
+- :yum: Focus on MrAltria to satisfy your cravings //关注MrAltria顿顿解馋！
 
 <!---
 MrAltria/MrAltria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
