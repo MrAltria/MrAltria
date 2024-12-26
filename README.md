@@ -5,7 +5,7 @@
 - 📫 How to reach me ?
 please send mail to pangbo_zju@zju.edu.cn or boaltria@gmail.com
 - :yum: Focus on MrAltria to satisfy your cravings for good food ！//关注MrAltria顿顿解馋！
-- ### 🐶🍐🥘✖️🔉4️⃣1️⃣，7️⃣☁️🔥🦇👃🎼🈯
+
 
 <!---
 MrAltria/MrAltria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
